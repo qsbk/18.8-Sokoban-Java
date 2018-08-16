@@ -10,7 +10,7 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 /* 
  * 2018/8/16   13：12
- * 修改了数组的的X，Y相反，目的是为了制作地图时更直观
+ * 修改了数组的的X，Y相反，目的是为了制作关卡时更直观
  * 人物向左移动为 Y --；....
  */
 
