@@ -7,4 +7,5 @@
  */
 module Sokoban {
 	requires java.desktop;
+	requires javafx.graphics;
 }
